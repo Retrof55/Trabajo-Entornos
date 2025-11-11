@@ -1,1 +1,3 @@
-VOID main() { IO.println(En la rama trabajamos: Edson y Marcos, archivo para generar conflictos) }
+VOID main() { 
+	IO.println(Archivo para generar conflictos, trabajaremos en esta rama, Edson y Marcos intentando crear conflictos) 
+}
